@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Bella Dog",
+		"description": "Bella Dog Resource Pack",
+		"uuid": "c16c40ae-76d4-296a-458e-cca45b1c6f91",
+		"version": [1, 0, 9],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["LArageboy"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.3.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Bella Dog",
+			"type": "resources",
+			"uuid": "80c390d1-85d1-28af-f786-3ed0902b0ec4",
+			"version": [1, 0, 0]
+		}
+	]
+}
